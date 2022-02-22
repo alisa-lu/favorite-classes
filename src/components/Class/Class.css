@@ -1,6 +1,6 @@
 .class {
-    width: 100px;
-    height: 25px;
+    width: 500px;
+    height: 200px;
     background-color:azure;
     text-align: center;
 }
@@ -9,4 +9,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom:3px;
+    padding-top:3px
+}
+
+#title {
+    font-size:medium;
+}
+
+#department {
+    font-size:medium;
+}
+
+#description {
+    font-size:small;
 }
